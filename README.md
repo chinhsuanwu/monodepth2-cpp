@@ -1,7 +1,7 @@
 # MonoDepth2-cpp
 
 ## Overview
-This is a revised version of [MonoDepth2]((https://github.com/nianticlabs/monodepth2)) for C++ inference usage.
+This is a revised version of [MonoDepth2](https://github.com/nianticlabs/monodepth2) for C++ inference usage.
 
 <p align="center">
   <img src="monodepth2/assets/teaser.gif" width="600" />
